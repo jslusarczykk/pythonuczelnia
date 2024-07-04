@@ -1,0 +1,22 @@
+
+
+codewars - python
+
+person.update(basic_data) rozszerzanie slownika o slownik
+
+pass - idzie dalej
+continue - idzie do kolejnego elementu iteracyjnego
+break - wychodzi z pętli
+
+uzywac debuggera
+
+alfabet angielski ma 26 liter!
+
+write - do pliku do nowej lini
+writelines - ta sama linia
+
+MOCK
+zad3 istotne
+zad4 istotne, proste
+zad5 wrocic po przerobieniu regular expressions
+zad6 regular expressions

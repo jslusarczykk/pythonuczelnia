@@ -1,0 +1,12 @@
+import sys
+sys.exit() - konczy kod
+
+if ean_number[:3] == '590': x[:3] od poczatku do 3 znaku i '' przy == 
+
+hours, minutes = zmienna.split(":") [16:32] - deklaracja czasu STR ONLY
+
+przy zamianie 24 na 12 hours_12 = hours % 12
+
+binary=binary[::-1] - odwrocenie stringa
+
+int zaczynajacy sie od zera np 0805 jest zapisany jako 805 i jest rowny inputowi na 0805

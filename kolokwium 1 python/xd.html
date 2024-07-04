@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projekt Indywidualny - Informatyka Stosowana</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        section {
+            background-color: #ffffff;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <section id="autor">
+        <h2>Autor: Imię Nazwisko</h2>
+        <p>
+            Studiuję Informatykę Stosowaną na Uniwersytecie Ekonomicznym. Wybór tego kierunku wynika z zamiłowania do rozwiązywania problemów
+            za pomocą technologii oraz chęci zastosowania wiedzy informatycznej w dziedzinie ekonomii.
+            Moje oczekiwania dotyczące studiów skupiają się na zdobyciu praktycznych umiejętności oraz rozwinięciu się w obszarze programowania.
+            Aktualnie pracuję nad projektem z generowaniem danych, który jest częścią indywidualnego zadania na zajęciach.
+            Oprócz tego, moje zainteresowania to... (można dodać hobby).
+        </p>
+    </section>
+
+    <section id="dane">
+        <h2>Dane Projektu</h2>
+        <p>
+            Projekt obejmuje generowanie danych z różnych kategorii, takich jak tekst, liczby, data, logiczne wartości oraz kwoty w złotówkach.
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Kolumna 1</th>
+                    <th>Kolumna 2</th>
+                    <!-- Dodaj więcej kolumn w zależności od wygenerowanych danych -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Dodaj 10 pierwszych wierszy danych -->
+            </tbody>
+        </table>
+        <h3>Formaty Plików</h3>
+        <p>
+            Poniżej znajdują się trzy formaty plików, do których zapisane są dane: XML, CSV, JSON.
+        </p>
+        <button onclick="pokazZawartoscPliku('xml')">Pokaż XML</button>
+        <button onclick="pokazZawartoscPliku('csv')">Pokaż CSV</button>
+        <button onclick="pokazZawartoscPliku('json')">Pokaż JSON</button>
+    </section>
+
+    <section id="internet">
+        <!-- Dodaj sekcję związana z Internetem, jeśli to potrzebne -->
+    </section>
+
+    <script>
+        // Dodaj funkcję obsługującą wyświetlanie zawartości plików
+        function pokazZawartoscPliku(format) {
+            // Implementacja wyświetlania zawartości plików dla danego formatu
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+zrobic 37 dla ogółu w wolnym czasie(nigdy)
+
+pierwiastek = math.sqrt(x)
+
+losowy int w zakresie
+import random
+x=random.randint(1,6)
+
+zaokraglanie do 2 miejsc - round(x,2)
+b="Jan Ślusarczyk"
+print(b[4:8]) wypisuje od 5 znaku do 8 "Ślus" 
+
+name = input("What is your name?: ")  
+for char in name:
+    numeric_representation = ord(char)
+    print(f"{char}","(",{numeric_representation},")")

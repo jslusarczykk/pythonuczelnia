@@ -1,0 +1,10 @@
+ord("E") - unicode od E
+if __name__ == "__main__": #sluzy to do importowania bez tego ponizej
+potem import zad19
+i jak odwolujemy sie do funcji z tych programow to uzywamy zad19.funkcja()
+
+is digit() - czy jest cyfra
+
+zad 49
+
+the most difficult exercises: 37, 40, 44, 45, 49

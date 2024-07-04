@@ -1,0 +1,7 @@
+test_p1 (__main__.Test) ... ok
+test_p2 (__main__.Test) ... ok
+test_p3 (__main__.Test) ... ok
+test_p4 (__main__.Test) ... FAIL
+test_p5 (__main__.Test) ... ERROR
+test_p6 (__main__.Test) ... ERROR
+test_p7 (__main__.Test) ... 

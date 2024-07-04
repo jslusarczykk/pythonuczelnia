@@ -1,0 +1,7 @@
+potrafię:
+importować pliki csv wczytywac ich dane i operowac na nich
+importować pliki json wczytywac ich dane i operowac na nich
+potrafię wyrażenia regularne:
+-znalezc w tekscie slowa, które zaczynają się na daną literę i kończą
+-liczby które mają dwie cyfry po przecinku
+-liczby dwu-czterocyfrowe

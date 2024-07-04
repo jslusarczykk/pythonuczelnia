@@ -1,0 +1,2 @@
+def correct(capacity):
+    print()

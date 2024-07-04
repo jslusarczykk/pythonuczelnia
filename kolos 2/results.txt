@@ -1,0 +1,14 @@
+test_p1 (__main__.Test) ... ok
+test_p2 (__main__.Test) ... ok
+test_p3 (__main__.Test) ... ok
+test_p4 (__main__.Test) ... ok
+test_p5 (__main__.Test) ... ok
+test_p6 (__main__.Test) ... C:\Users\Janek\Desktop\zadania python uczelnia 2023-2024\kolos 2\p6.py:5: DeprecationWarning: invalid escape sequence \d
+  tab=re.findall("\d+" "",t)
+ok
+test_p7 (__main__.Test) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.020s
+
+OK

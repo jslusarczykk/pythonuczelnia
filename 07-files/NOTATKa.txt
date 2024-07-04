@@ -1,0 +1,28 @@
+WCZYTAC SOBIE PLIKI Z MOODLA I POBAWIC SIE NIMI
+zad9 - roznice miedzy r, w i a
+
+wrocic do zad 11
+"\n" - do nowej linijki
+
+funkcja with - zad 15 ogarnac
+
+1 zadanie z wyrażeń regularnych na kolosie --> przyda sie w pracy w przyszlosci
+t="abc 123 xxx 45 xyz 567 ddd 3"
+re.findall("\d(1,2)",t)
+wynik w tablicy
+
+najszybsza zamiana tablicy na stringa
+
+my_list = ["apple", "banana", "orange"]
+my_string = ", ".join(my_list)
+
+zrobic zad 18 jeszcez raz
+
+print(my_string)
+
+wrocic do 24! zrobione gpt
+zad 25 istotne af
+zad 26 istotne af
+zad 27 istotne af
+zad 28 na pamiec ;)
+zad 29 zapamietac

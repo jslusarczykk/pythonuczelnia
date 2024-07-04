@@ -1,0 +1,13 @@
+{
+ "title": "Harry potter",
+ "year": 2035,
+ "actor": {
+  "leading": "Nie wiem",
+  "supporting": "Nie mam pojecia"
+ },
+ "oscar": true,
+ "cat": {
+  "black": "hermiona",
+  "white": "harry"
+ }
+}

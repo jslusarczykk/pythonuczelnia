@@ -1,0 +1,25 @@
+zwrocic uwage na zadanie 13!
+17 jest pojebane ale dziala 
+18 zerknac na pattern
+19 slicing!
+28 istotne
+29 istotne break continue
+30 algorytm do zapamietania na pamiec!!!!!!!!!!!!
+31 popierdolone na pamiec WROCIC
+34 banalne, na pamiec
+36 tuple.count() - ilosc elementow danych
+37 zerknac, arr=sorted(arr) 
+jak posortowac tablice nie za pomoca arr=sorted(arr) zapamietac!
+40 - ciekawsze
+41 - zerknac warto sam to napisalem wtf?
+43 b,c istotne! wrocic
+44 skip, nie dziala import
+45 skip ten sam powód
+49 istotne, proste
+50 istotne pamietac, ze jak tworzymy liste to musi byc niepusta przy zamienianiu
+51 proste ale istotne
+52 bardzo prawdopodobne ze bedzie, trudne ale nie niemozliwe
+53 proste, ale warto zapamietac
+54 zrobic od nowa cale, banalne ale chore XD
+55 autystyczne
+56 nie zrobione, wrocic do niego
